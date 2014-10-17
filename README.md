@@ -1,4 +1,4 @@
-penelope_parser
+penelope_en_parser
 ===============
 Custom parser for https://github.com/pettarin/penelope
 
